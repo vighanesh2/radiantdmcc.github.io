@@ -464,6 +464,10 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: auto;
   }
+  .footer{
+    padding-left:100px;
+    padding-right:100px
+  }
 
   /* Adjust other responsive styling as needed */
 }
