@@ -237,8 +237,7 @@
 
 .products {
   position: relative;
-    background-image: url('products\ back.jpg'); /* Replace with your image */
-    background-size: cover;
+    background-color:#FFFFFF;
     background-position: center;
     padding: 100px;
     color: white;
